@@ -26,15 +26,4 @@ open class DefaultWindow : StandOutWindow(){
     override fun isDisableMove(id: Int): Boolean {
         TODO("Not yet implemented")
     }
-
-    //
-    //
-    /
-    /
-    /
-    /
-    /
-    //
-    /
-    /
 }
