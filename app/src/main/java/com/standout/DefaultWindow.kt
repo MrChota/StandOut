@@ -27,4 +27,14 @@ open class DefaultWindow : StandOutWindow(){
         TODO("Not yet implemented")
     }
 
+    //
+    //
+    /
+    /
+    /
+    /
+    /
+    //
+    /
+    /
 }
