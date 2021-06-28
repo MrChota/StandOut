@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :tun2socks:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46d7268f0056cb2dd2d3b9ca2f1e85e0/tun2socks/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46d7268f0056cb2dd2d3b9ca2f1e85e0/tun2socks/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
